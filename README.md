@@ -2,6 +2,7 @@
 Using an BOURNS ACE-128 Rotary Encoder with OLED Display and/or Stepper Motor Driver
 
 EAW - Absolute Contacting Encoder (ACE™) EAWOJ-B24-AEO128L Data Sheet:
+
 https://www.bourns.com/docs/Product-Datasheets/ace.pdf
 
 Example Sketches for use with Arduino MEGA
