@@ -28,7 +28,7 @@ Adafruit_SSD1306 display(SCREEN_WIDTH, SCREEN_HEIGHT, &Wire, -1);
 #include <ACE128map12345678.h> // Mapping for ACE128 Encoder pin order 12345678
 
 // Attach to Arduino MEGA's pins 46,47,48,49,50,51,52,53 to Encoder pins 1,2,3,4,5,6,7,8
-ACE128 myACE(46,47,48,49,50,51,52,53, (uint8_t*)encoderMap_12345678); // Line used or Arduino Mega2560
+ACE128 myACE(46,47,48,49,50,51,52,53, (uint8_t*)encoderMap_12345678); // Line used for Arduino Mega2560
 
 // Variable to hold multiturn value of encoder (-32768 to 32767)
 int16_t multiturn_encoder_value;  
