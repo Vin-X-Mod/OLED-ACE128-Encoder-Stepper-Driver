@@ -1,6 +1,8 @@
 # OLED-ACE128-Encoder-Stepper-Driver
 Using an BOURNS ACE-128 Rotary Encoder with OLED Display and/or Stepper Motor Driver
 
+Example Arduino MEGA Sketches
+
 Solidworks CAD files can be downloaded from GrabCAD:
 
 https://grabcad.com/library/bourns-ace-128-encoder-1
