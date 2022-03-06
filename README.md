@@ -17,6 +17,8 @@ https://grabcad.com/library/bourns-ace-128-encoder-1
 
 ![WIRING Stepper Motor Driver](https://user-images.githubusercontent.com/99458302/155915582-b5981298-96aa-4cf3-8c64-82864cca489e.JPG)
 
+![Push Button Wiring Vin X Mod](https://user-images.githubusercontent.com/99458302/156915941-aeae683a-c85f-46cd-951c-c41ce871f904.jpg)
+
 How-To Configure the ACE128.h Library File
 
 ![Install ACE128 Library](https://user-images.githubusercontent.com/99458302/155921513-6394c4c4-d088-415d-a979-0bae3ace1503.jpg)
