@@ -34,9 +34,12 @@ Using a LCD Screen to show ACE-128 Encoder Values :
 Using Serial Monitor to show ACE-128 Encoder Values :
 
 Arduino MEGA uses Pins 22 thru 29
+
 ![LCD ACE128 Serial Monitor](https://user-images.githubusercontent.com/99458302/156911884-4d6279ae-05fd-44e8-b76c-ca33f1d79947.jpg)
 
 ![Serial Monitor ACE-128 Encoder](https://user-images.githubusercontent.com/99458302/156911888-3adec733-b93f-44d6-926a-44b706c681c1.jpg)
 
 Arduino UNO uses Pins 2 thru 9
+
 ![LCD ACE128 Arduino UNO](https://user-images.githubusercontent.com/99458302/156911892-18d93313-c5a4-4082-8757-c8ef36025324.jpg)
+
