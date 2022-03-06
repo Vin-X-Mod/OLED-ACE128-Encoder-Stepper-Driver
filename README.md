@@ -24,3 +24,6 @@ https://grabcad.com/library/bourns-ace-128-encoder-1
 ![ACE128 Configurable Defile Statements](https://user-images.githubusercontent.com/99458302/155921549-67a31be9-be72-496d-a8ff-96efd5e4ee8f.jpg)
 
 ![Save ACE128 Close Notepad](https://user-images.githubusercontent.com/99458302/155921561-a5a4c51a-0d34-484a-8f9f-3ee5e5d2b76c.jpg)
+
+
+![LCD Bourns ACE128 Encoder](https://user-images.githubusercontent.com/99458302/156911344-cf352b13-ff90-4aad-a051-4a05f8e97821.jpg)
